@@ -14,3 +14,5 @@ Instructions:
 4) Make moves by left click on the digit located in the top row. If you click on the digit i and i_th column is not full, then  disc of your color will be placed in the bottommost vacant position of column i. If the corresponding column is full, the move is not made and you need to choose a valid column.
 
 If you want to learn more about Connect four game please refer to the following wikipedia article: https://en.wikipedia.org/wiki/Connect_Four
+
+The project is still in the development stage and there are many things yet to be implemented.
